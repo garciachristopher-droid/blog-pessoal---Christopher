@@ -1,9 +1,16 @@
 body{
     background-color: rebeccapurple;
+    font-family: 'Times New Roman', Times, serif;
 }
 header{
     background-color: red;
+    margin: 0 auto;
+    padding: 16px;
 }
 section{
     background-color: white;
+    margin: 16px;
+    padding: 16px;
+    max-width: 500px;
+    border-radius: 10px;
 }
